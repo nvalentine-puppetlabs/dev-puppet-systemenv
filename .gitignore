@@ -1,0 +1,7 @@
+*swp
+*~
+.vagrant
+puppet/modules/stdlib
+puppet/modules/inifile
+puppet/modules/systemenv
+
