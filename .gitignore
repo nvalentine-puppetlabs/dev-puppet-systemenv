@@ -4,4 +4,6 @@
 puppet/modules/stdlib
 puppet/modules/inifile
 puppet/modules/systemenv
-
+puppet/.tmp
+puppet/.librarian
+puppet/Puppetfile.lock
