@@ -1,6 +1,6 @@
 forge "http://forge.puppetlabs.com"
 
-mod 'envvar',
+mod 'systemenv',
   :git => 'git://github.com/nvalentine-puppetlabs/puppet-systemenv'
 
 mod 'puppetlabs/stdlib'
