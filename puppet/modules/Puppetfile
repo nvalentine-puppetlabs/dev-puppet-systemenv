@@ -1,7 +1,7 @@
 forge "http://forge.puppetlabs.com"
 
 mod 'systemenv',
-  :git => 'git://github.com/nvalentine-puppetlabs/puppet-systemenv'
+  :git => 'git://github.com/nvalentine-puppetlabs/puppet-systemenv.git'
 
 mod 'puppetlabs/stdlib'
 mod 'puppetlabs/inifile'
